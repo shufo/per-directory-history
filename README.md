@@ -29,7 +29,7 @@ $ cd Documents
 $ history | head
 $ echo bar
 bar
-$ history | head                                                                                  06:00:21
+$ history | head
 echo bar
 ```
 
