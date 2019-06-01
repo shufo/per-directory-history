@@ -1,4 +1,4 @@
-A port of zsh's [per directory history](https://github.com/jimhester/per-directory-history).
+A port of zsh's [per directory history](https://github.com/jimhester/per-directory-history) for fish shell.
 
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
